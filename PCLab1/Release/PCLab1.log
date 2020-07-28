@@ -1,0 +1,34 @@
+﻿Построение начато 13.02.2017 0:50:07.
+     1>Проект "D:\Labs\PC\PCLab1\PCLab1\PCLab1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Operate.cpp
+         Operate.cpp
+     1>Operate.cpp(47): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131): см. объявление "getch"
+     1>Operate.cpp(54): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131): см. объявление "getch"
+     1>Operate.cpp(151): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131): см. объявление "getch"
+     1>Operate.cpp(162): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+     1>Operate.cpp(244): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>Operate.cpp(249): warning C4244: инициализация: преобразование "float" в "unsigned short", возможна потеря данных
+     1>Operate.cpp(284): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131): см. объявление "getch"
+     1>Operate.cpp(312): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131): см. объявление "getch"
+     1>Operate.cpp(366): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131): см. объявление "getch"
+     1>Operate.cpp(394): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\conio.h(131): см. объявление "getch"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Labs\PC\PCLab1\Release\PCLab1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Labs\PC\PCLab1\Release\PCLab1.pdb" /SUBSYSTEM:CONSOLE,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Labs\PC\PCLab1\Release\PCLab1.lib" /MACHINE:X86 /SAFESEH Release\Input.obj
+         Release\Operate.obj
+         Release\Souce.obj
+         Создание кода
+         Создание кода завершено
+         PCLab1.vcxproj -> D:\Labs\PC\PCLab1\Release\PCLab1.exe
+     1>Построение проекта "D:\Labs\PC\PCLab1\PCLab1\PCLab1.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.76
